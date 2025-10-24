@@ -90,19 +90,49 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" alt="DNA Commit Spiral" />
+</div>
+
+
+---
+
+
+
+
+<div align="center">
+
+
+
+<!-- ⏰ Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=prompttocode&label=Profile+Views&color=ff61d8&style=flat-square" alt="Profile Views" />
+
+<!-- ⚡ Random Dev Quote -->
+<br/><br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+<!-- 🔥 GitHub Metrics -->
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prompttocode&bg_color=141321&color=ff61d8&line=ff61d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<!-- 🧠 GitHub Achievements Badge -->
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prompttocode&theme=radical" alt="GitHub Summary" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-  <p>
-    <b>Made with ❤️ by Nam</b>
-    <br/>
-    <i>Always learning, always building 🚀</i>
-  </p>
-  
+
+✨ <b>“Keep coding, keep glowing.”</b> ✨  
+<br/>
+<a href="https://github.com/prompttocode">
+  <img src="https://img.shields.io/badge/⭐️%20Star%20my%20repos-FF61D8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+</div>
+
