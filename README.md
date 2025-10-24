@@ -87,7 +87,6 @@
 
 ---
 
-## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" alt="DNA Commit Spiral" />
@@ -104,7 +103,7 @@
 
 
 <!-- ⏰ Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=prompttocode&label=Profile+Views&color=ff61d8&style=flat-square" alt="Profile Views" />
+
 
 <!-- ⚡ Random Dev Quote -->
 <br/><br/>
