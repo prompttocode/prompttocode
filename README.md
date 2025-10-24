@@ -18,10 +18,17 @@
 
 ---
 
-### ⚙️ My Tech Stack
-💻 **Languages:** JavaScript, TypeScript,...  
-🧰 **Frameworks:** React, Next.js, Express, Node.js  
-🗄️ **Databases:** MySQL, MongoDB  
+*Languages*  
+<img src="https://skillicons.dev/icons?i=js,ts,python" height="40" />
+
+*Frameworks & Libraries*  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="40" />
+
+*Databases*  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
+
+*Tools & Platforms*  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" /> 
 
 ---
 
