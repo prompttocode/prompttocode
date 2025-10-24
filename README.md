@@ -4,19 +4,6 @@
 
 ---
 
-<div align="center">
-  <h3>
-    🚀 <b>Fullstack Developer</b> | React | Node.js | MySQL | MongoDB
-  </h3>
-  <p>
-    💡 I love building <b style="color:#FF61D8;">beautiful</b> & <b style="color:#00D9FF;">performant</b> web applications.
-    <br/>
-    🌱 Currently learning <b>Next.js</b>, <b>React.js</b>, and <b>Node.js</b>
-  </p>
-</div>
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
