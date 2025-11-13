@@ -7,13 +7,10 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=prompttocode&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prompttocode&theme=radical&hide_border=true&border_radius=20" height="180" alt="GitHub Streak" />
   
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prompttocode&layout=compact&theme=radical&hide_border=true&border_radius=20" height="180" alt="Top Languages" />
 
 </div>
 
