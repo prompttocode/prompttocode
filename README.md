@@ -3,7 +3,6 @@
 </div>
 
 ---
-## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -14,7 +13,6 @@
 
 </div>
 
----
 
 
 
@@ -27,7 +25,6 @@
 </div>
 
 
----
 
 
 <div align="center">
@@ -35,7 +32,6 @@
 </div>
 
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
