@@ -18,9 +18,8 @@
 
 <div align="center">
   
-  **"Ctrl + C, Ctrl + V."**
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=700&color=FF61D8&center=true&vCenter=true&width=600&lines=code();+coffee();bug+=>+giveup()+=>;ChatGPT()+=)));" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=700&color=FF61D8&center=true&vCenter=true&width=600&lines=code();+Ctrl+%2B+c%2C+Ctrl+%2B+v+;+bug+=>+giveup()+=>;ChatGPT()+=)));" alt="Typing SVG" />
+
 
 </div>
 
