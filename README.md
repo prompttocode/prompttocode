@@ -26,6 +26,9 @@
 
 
 
+<div align="center">
+<img width="300" height="300" alt="Gemini_Generated_Image_kpbdf5kpbdf5kpbd" src="https://github.com/user-attachments/assets/2fdc4d95-83bf-4077-9df8-03d312370e07" />
+</div>
 
 <div align="center">
   <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" alt="DNA Commit Spiral" />
