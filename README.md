@@ -25,8 +25,10 @@
 
 
 
-<div align="center">
+<div align="center" flex>
 <img width="300" height="300" alt="Gemini_Generated_Image_kpbdf5kpbdf5kpbd" src="https://github.com/user-attachments/assets/2fdc4d95-83bf-4077-9df8-03d312370e07" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/29230c13-47b3-417e-aeaf-fe36e197963d" />
+
 </div>
 
 <div align="center">
