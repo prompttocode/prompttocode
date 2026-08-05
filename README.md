@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF61D8&center=true&vCenter=true&width=600&lines=✨+Hi,+I'm+Nam+✨;VibeCode+Developer;Building+Beautiful+%26+Performant+Apps" alt="Typing SVG" />
 </div>
-<div align="center">
-  Anh là người đưa ra chỉ đạo, đưa ra yêu cầu và chủ động phê duyệt. Tuy nhiên cuộc đời đôi khi nó có theo ý muốn của con người được hết đâu em. Đôi khi nó đưa cho mình một thứ xấu xí, nhưng chúng ta có quyền lựa chọn
-</div>
+
 
 ---
 
